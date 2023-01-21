@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/button">
+        <file>Resources/kisspng-waon-fujita-kanko-inc-triangle-0-fast-forward-5b30268e02ab62.794417581529882254011.png</file>
+    </qresource>
+    <qresource prefix="/Poligon">
+        <file>Resources/kisspng-complete-graph-laplacian-matrix-vertex-polygon-medical2-1629-free-pharmaceutical-medical-lo-5c9a165b8d58d9.177007451553602139579.png</file>
+    </qresource>
+    <qresource prefix="/Doldur">
+        <file>Resources/5a34ebc47e6599.5315951815134176685177.png</file>
+    </qresource>
+    <qresource prefix="/Cember">
+        <file>Resources/kisspng-circle-clip-art-circles-5a838c8d81ff28.4228236915185706375325.png</file>
+    </qresource>
+    <qresource prefix="/button_ters">
+        <file>Resources/TERS.png</file>
+    </qresource>
+</RCC>
